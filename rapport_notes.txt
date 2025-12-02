@@ -1,0 +1,15 @@
+ RAPPORT DES NOTES 
+Nombre d'étudiants  : 8
+Moyenne initiale    : 12.88
+Moyenne après bonus : 13.88
+Nombre de validés   : 5 étudiants (Note >= 12)
+------------------------------
+Détails par étudiant :
+  Étudiant 01 | Note: 12.00 -> Bonus: 13.00
+  Étudiant 02 | Note:  9.00 -> Bonus: 10.00
+  Étudiant 03 | Note: 15.00 -> Bonus: 16.00
+  Étudiant 04 | Note:  8.00 -> Bonus:  9.00
+  Étudiant 05 | Note: 17.00 -> Bonus: 18.00
+  Étudiant 06 | Note: 13.00 -> Bonus: 14.00
+  Étudiant 07 | Note: 19.00 -> Bonus: 20.00
+  Étudiant 08 | Note: 10.00 -> Bonus: 11.00
